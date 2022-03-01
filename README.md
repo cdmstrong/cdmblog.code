@@ -1,2 +1,2 @@
 # myblog
-基于vuePress +koa2构建的个人博客
+基于vuePress个人博客的代码模板
